@@ -23,3 +23,8 @@ The game follows basic Blackjack rules where the player competes against the dea
 
 ## ▶️ How to Run
 1. Clone this repository:
+
+<img width="1254" height="944" alt="image" src="https://github.com/user-attachments/assets/0dea4fa4-4d9a-4cce-903f-a524b8210c07" />
+
+
+
