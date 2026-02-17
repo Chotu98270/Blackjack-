@@ -30,4 +30,26 @@ Output:
 <img width="1254" height="944" alt="image" src="https://github.com/user-attachments/assets/0dea4fa4-4d9a-4cce-903f-a524b8210c07" />
 
 
+---
+
+## 📚 What I Learned
+- Python OOP concepts
+- Game logic implementation
+- GitHub project management
+- Debugging and problem solving
+
+---
+
+## 🚀 Future Improvements
+- GUI version (Tkinter/Pygame)
+- Multiplayer mode
+- Better card visuals
+
+---
+
+## 👤 Author
+**Vaibhav Thakur**
+
+
+
 
